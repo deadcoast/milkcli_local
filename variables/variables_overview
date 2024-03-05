@@ -1,0 +1,9 @@
+milk-cli/
+│
+├── variables/
+│   ├── __init__.py
+│   ├── core_commands_list.py    # Handles listing of core commands
+│   ├── help_this_trigger.py     # Provides help for a specific trigger
+│   ├── path_me.py               # Prints the current CLI directory path
+│   ├── milk_nav_back.py         # Handles navigation back to the previous menu
+│   └── [other_variables].py     # Other variable command modules

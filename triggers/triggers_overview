@@ -1,0 +1,7 @@
+milk-cli/
+│
+├── triggers/
+│   ├── __init__.py
+│   ├── sour.py
+│   ├── man.py
+│   └── [other_triggers].py
